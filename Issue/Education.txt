@@ -1,54 +1,176 @@
 Educational institutions have a responsibility to dissuade students from pursuing fields of study in which they are unlikely to succeed.
 
 Write a response in which you discuss the extent to which you agree or disagree with the claim. In developing and supporting your position, be sure to address the most compelling reasons and/or examples that could be used to challenge your position.
-***********************************************************************************************************************************************************************
-Educational institutions have a responsibility to dissuade students from pursuing fields of study in which they are unlikely to succeed.
 
-Write a response in which you discuss the extent to which you agree or disagree with the claim. In developing and supporting your position, be sure to address the most compelling reasons and/or examples that could be used to challenge your position.
+For: 
+1. Education institutes have experience, as they've seen people rise and fall based on the fields students choose (based on job, career opportunities)
+2. Depends on the way the decide on whether or not a student will succeed. It might not give a true result of students' capabilities.
+
+Against:
+1. Student may be bad at this point of time, doesn't mean he'll be bad forever.
+2. Definition of success is a diffirent for different individuals. 
+
+Conclusion: 
+Let the student decide for what he wants on his own, while taking the help of the experience built by the educational organization. 
+
 ***********************************************************************************************************************************************************************
 A nation should require all of its students to study the same national curriculum until they enter college.
 
 Write a response in which you discuss the extent to which you agree or disagree with the recommendation and explain your reasoning for the position you take. In developing and supporting your position, describe specific circumstances in which adopting the recommendation would or would not be advantageous and explain how these examples shape your position.
+
+For:
+1. Everyone should have basic education, for instance Math, English which are essential for day to day life.
+2. Similar national curriculum will aid a fairer judgement system, and examination standards for students. Eg. IIT JEE exams.
+
+Against:
+1. Will be biased for handicapped students. 
+2. Some schools might not afford the infrastructure needed. Eg. CS course would necessitate computers which schools in rural areas might not afford.  
+
+Conclusion:
+Major portion of the curriculum should be kept same, while giving freedom to some extent to the colleges, so as to keep in mind the audience they are educating (schools for blinds, for instance). 
+
 ***********************************************************************************************************************************************************************
 Governments should offer a free university education to any student who has been admitted to a university but who cannot afford the tuition.
 
 Write a response in which you discuss your views on the policy and explain your reasoning for the position you take. In developing and supporting your position, you should consider the possible consequences of implementing the policy and explain how these consequences shape your position.
+
+For:
+1. Good for students who are poor, they will avail education of high standards.
+2. Motivate students to work harder since they will be assured of not paying high fees. 
+
+Against:
+1. Government will be at lost, since it has to pay for expenses. Which might in turn result in degradating on the education quality. 
+2. Also, it will have to spend more money on education, rather than carrying out urgent projects eg. vaccination, building hospitals, transport system.
+
+Conclusion:
+Goverment should offer partial help, and then give part time jobs to students so that they can earn and learn at the same time.
+Government can also start accepting donations to help poor students.
+
 ***********************************************************************************************************************************************************************
 Universities should require every student to take a variety of courses outside the student's field of study.
 
 Write a response in which you discuss the extent to which you agree or disagree with the claim. In developing and supporting your position, be sure to address the most compelling reasons and/or examples that could be used to challenge your position.
-***********************************************************************************************************************************************************************
-Some people believe that universities should require every student to take a variety of courses outside the student's field of study. Others believe that universities should not force students to take any courses other than those that will help prepare them for jobs in their chosen fields.
 
-Write a response in which you discuss which view more closely aligns with your own position and explain your reasoning for the position you take. In developing and supporting your position, you should address both of the views presented.
+For:
+1. It will make student versatile. He will require less time to train. 
+2. Will give student the ability to swtich careers and try something different. 
+
+Against:
+1. Will hinder the progress of the individuals' development in a single field. 
+2. Will cost time and money to the student which he might not have. 
+
+Conclusion:
+Universities that necessitate students to take more than 10 subjects a semesters seems unfair. However, it should set a curriculum of few core must take subjects, and must recommend courses that might benefit the student, or present a number of courses as electives and let the student decide on which courses to take it based on his requirements and future endeavours. 
+
 ***********************************************************************************************************************************************************************
 Educational institutions should actively encourage their students to choose fields of study that will prepare them for lucrative careers.
 
 Write a response in which you discuss the extent to which you agree or disagree with the claim. In developing and supporting your position, be sure to address the most compelling reasons and/or examples that could be used to challenge your position.
+
+For:
+1. Would help the economy grow. Important for countries that are struggling. Eg. Agriculture should be promoted in Syria so that people in the country can survive. 
+
+Againt:
+1. It might be field in which the student is not interested, so he won't be able to work hard. He will likely not study and score less marks.
+2. If too many students are trained for fields with lucrative jobs, the field will get overcrowded and lose quality and opulence, the very basis for choosing the field.
+
+Conclusion: Universities should recommend lucrative fields and courses, but should leave the decision on the students to choose the path. 
+
 ***********************************************************************************************************************************************************************
 Formal education tends to restrain our minds and spirits rather than set them free.
 
 Write a response in which you discuss the extent to which you agree or disagree with the statement and explain your reasoning for the position you take. In developing and supporting your position, you should consider ways in which the statement might or might not hold true and explain how these considerations shape your position.
+
+For: 
+1. Formal education teaches only theory, but no application, thus limiting the ability to be creative and apply theory in their own way. 
+2. Formal education persuades students to memorize so that they can pass the exam, but fails on teaching long term goals eg. entrepreneurship. 
+
+Against:
+1. Makes students competitive motivating them to work hard. eg. IIT JEE
+
+Conclusion:
+Formal education teaches theory but does not support creativity and imagination which will enhance the thinking of the student.
+
 ***********************************************************************************************************************************************************************
 Some people believe that college students should consider only their own talents and interests when choosing a field of study. Others believe that college students should base their choice of a field of study on the availability of jobs in that field.
 
 Write a response in which you discuss which view more closely aligns with your own position and explain your reasoning for the position you take. In developing and supporting your position, you should address both of the views presented.
+
+For:
+1. Students will be more motivated and will be working hard in the subjects they like
+2. If everyone starts taking up field of lucrative jobs, the field will be overcrowded and the quality might deteriorate, also might decrease the job availability and increase competition.
+
+Against:
+1. Will promote students to take safer decision, for instance if one is in dilemma between chosing two fields, a decision can be made by considering job opportunities in a particular field. 
+
+Conclusion:
+Students should choose fields of study based on their interests, since they are likely to work hard in something the love to do. 
 ***********************************************************************************************************************************************************************
-The best way to teach is to praise positive actions and ignore negative ones.
+The best way to teach is to praise positive actions and ignore negative ones.$$$
 
 Write a response in which you discuss the extent to which you agree or disagree with the statement and explain your reasoning for the position you take. In developing and supporting your position, you should consider ways in which the statement might or might not hold true and explain how these considerations shape your position.
+
+For:
+1. Too much criticism will dissuade the student from learning  
+2. Praising will increase the confidence and make students work harder. 
+
+Against:
+1. Will make the student complacent and obviate the need to improve. 
+2. Students should not only be good in good things but also should know if they're inadvertently hurting others which will transpire by feedback and criticism.
+
+Conclusion:
+Students should be praised for positive actions, but also should be criticised for bad actions, in a proper manner. 
+
 ***********************************************************************************************************************************************************************
 Governments should offer college and university education free of charge to all students.
 
 Write a response in which you discuss the extent to which you agree or disagree with the recommendation and explain your reasoning for the position you take. In developing and supporting your position, describe specific circumstances in which adopting the recommendation would or would not be advantageous and explain how these examples shape your position.
+
+For:
+1. Good for students who are poor, they will avail education of high standards.
+2. Motivate students to work harder since they will be assured of not paying high fees. 
+
+Against:
+1. Government will be at lost, since it has to pay for expenses. Which might in turn result in degradating on the education quality. 
+2. Also, it will have to spend more money on education, rather than carrying out urgent projects eg. vaccination, building hospitals, transport system.
+
+Conclusion:
+Goverment should offer partial help, and then give part time jobs to students so that they can earn and learn at the same time.
+Government can also start accepting donations to help poor students.
+
 ***********************************************************************************************************************************************************************
 The best way to teach—whether as an educator, employer, or parent—is to praise positive actions and ignore negative ones.
 
 Write a response in which you discuss the extent to which you agree or disagree with the claim. In developing and supporting your position, be sure to address the most compelling reasons and/or examples that could be used to challenge your position.
+
+For:
+1. Too much criticism will dissuade the student from learning  
+2. Praising will increase the confidence and make students work harder.
+
+Against: 
+1. Parents - should not ignore if their child does anything wrong eg. stealing
+2. educator - should not ignore if their students do anything wrong eg. cheating in exam
+3. employers - should provide constructive criticism when the employees fail to achieve their tasks.
+
+Conclusion:
+Students should be praised for positive actions, but also should be criticised for bad actions, in a proper manner. 
+
 ***********************************************************************************************************************************************************************
 Teachers' salaries should be based on their students' academic performance.
 
 Write a response in which you discuss the extent to which you agree or disagree with the claim. In developing and supporting your position, be sure to address the most compelling reasons and/or examples that could be used to challenge your position.
+
+For:
+1. Will penalize teachers that are not good, or shirk their responsibilities, in turn increasing the effort teacher will put into teaching students. 
+
+Against:
+1. Teachers who genuinely teach, but have bad students will suffer. 
+2. Teachers might end up promoting cramming up answers to pass the exam, while limiting the things actually learnt. 
+3. Should be based on also other factors eg. qualification of the teacher, one with PhD should be paid more than one without it.
+
+Conclusion:
+It should be based on various factors and not just a single one.
+
 ***********************************************************************************************************************************************************************
 College students should base their choice of a field of study on the availability of jobs in that field.
 
