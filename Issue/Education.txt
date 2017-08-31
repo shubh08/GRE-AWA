@@ -8,7 +8,7 @@ For:
 
 Against:
 1. Student may be bad at this point of time, doesn't mean he'll be bad forever.
-2. Definition of success is a diffirent for different individuals. 
+2. Definition of success is a different for different individuals. 
 
 Conclusion: 
 Let the student decide for what he wants on his own, while taking the help of the experience built by the educational organization. 
@@ -195,15 +195,31 @@ Write a response in which you discuss the extent to which you agree or disagree 
 For:
 1. Will be helpful to hone skills and bring the students to full potential.
 
+
 Against:
 1. Giving special treatments to special kids will be biased from normal kids point of view. They should be given attention as well, not all kids are genius at young age ex. Einstein.
+2. Giving children specialized training at a very young age might get them under pressure in near future. Too much competition is detrimental. 
 
 Conclusion:
+Whether the recommendation should be taken or not depends on the situation, if the child is interested in the field he is put into, then it's OK else it is bad.
 
 ***********************************************************************************************************************************************************************
-College students should be encouraged to pursue subjects that interest them rather than the courses that seem most likely to lead to jobs.
+College students should be encouraged to pursue subjects that interest them rather than the courses that seem most likely to lead to jobs. $$$
 
 Write a response in which you discuss the extent to which you agree or disagree with the recommendation and explain your reasoning for the position you take. In developing and supporting your position, describe specific circumstances in which adopting the recommendation would or would not be advantageous and explain how these examples shape your position.
+
+For:
+1. Students will put in more effort into something they like. Which might end up getting higher grade.
+2. Even if they take courses which have more jobs presently, there's no guarantee there'll be jobs when he'll graduate. Eg. CS, everyone wants to study
+CS for jobs, but very few actually get them.
+3. More job satisfaction in the longer run.
+
+Against:
+1. They might pursue wreckless career choices without thinking about its consequences. 
+
+Conclusion:
+Yes, they should prefer the subjects they like over the ones who have more job opportunities. 
+
 ***********************************************************************************************************************************************************************
 Claim: When planning courses, educators should take into account the interests and suggestions of their students.
 
