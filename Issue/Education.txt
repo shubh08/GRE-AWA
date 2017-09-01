@@ -213,6 +213,7 @@ For:
 2. Even if they take courses which have more jobs presently, there's no guarantee there'll be jobs when he'll graduate. Eg. CS, everyone wants to study
 CS for jobs, but very few actually get them.
 3. More job satisfaction in the longer run.
+4. Students are more aware of what is relevant to their lives and what is important for them to learn
 
 Against:
 1. They might pursue wreckless career choices without thinking about its consequences. 
@@ -226,18 +227,67 @@ Claim: When planning courses, educators should take into account the interests a
 Reason: Students are more motivated to learn when they are interested in what they are studying.
 
 Write a response in which you discuss the extent to which you agree or disagree with the claim and the reason on which that claim is based.
+
+For:
+1. Students will put in more efforts into something they like. Which might end up getting higher grade. 
+
+Against:
+1. Should also consider other factors like job opportunity, modern trends etc. 
+2. Educators have more experience in teaching, they know what's important and what's not, merely submitting to students' wishes will not make education
+better. 
+3. Educators have more experience than students. Students don't have as much knowledge, so they shouldn't be given much control.
+
+Conclusion:
+Educators' have responsibility to teach the students and make them ready for the society, they should not be submitting to the students' wishes, certainly they should be seeking some feedback. They can moreover provide subjects as electives to give some degree of freedom to the students. 
+
 ***********************************************************************************************************************************************************************
 Students should always question what they are taught instead of accepting it passively.
 
 Write a response in which you discuss the extent to which you agree or disagree with the statement and explain your reasoning for the position you take. In developing and supporting your position, you should consider ways in which the statement might or might not hold true and explain how these considerations shape your position.
+
+For:
+1. Will give them a deeper understanding. In the process of questioning you'll learn new things which you weren't aware of initially.
+2. When the student will ask the teacher, it'll bring teacher an opportunity to learn the subject once again in an attempt to resolve the reservations of the students.
+
+Against:
+1. Questioning everything (indicated by 'always') is ludicrous since if you waste your time questioning the laws of basic physics you'll just end up wasting your time
+
+Conclusion:
+It is good to get into a healthy discussion with your professor in case you have doubts but questioning 'always' is a not a very wise thing to do. 
+
 ***********************************************************************************************************************************************************************
 Competition for high grades seriously limits the quality of learning at all levels of education.
 
 Write a response in which you discuss the extent to which you agree or disagree with the statement and explain your reasoning for the position you take. In developing and supporting your position, you should consider ways in which the statement might or might not hold true and explain how these considerations shape your position.
+
+For:
+1. Students end up learning only for the sake of getting grades, education is thus limited, quality of learning is diminished. 
+2. Brings in stress on students, sometimes results in mishaps like suicides. 
+
+Againts:
+1. Brings in an environment of competition, where students are forced to learn, if not willingly.
+2. Does not limit at 'all' levels of education, at the lower level, it almost always results in a healthy competition in schools. 
+
+Conclusion:
+Cramming up results in deterioration of education, application based education should be instead preferred. 
+
 ***********************************************************************************************************************************************************************
 Educators should find out what students want included in the curriculum and then offer it to them.
 
 Write a response in which you discuss the extent to which you agree or disagree with the recommendation and explain your reasoning for the position you take. In developing and supporting your position, describe specific circumstances in which adopting the recommendation would or would not be advantageous and explain how these examples shape your position.
+
+For:
+1. Students will put in more efforts into something they like. Which might end up getting higher grade. 
+
+Against:
+1. Should also consider other factors like job opportunity, modern trends etc. 
+2. Educators have more experience in teaching, they know what's important and what's not, merely submitting to students' wishes will not make education
+better. 
+3. Educators have more experience than students. Students don't have as much knowledge, so they shouldn't be given much control.
+
+Conclusion:
+Educators' have responsibility to teach the students and make them ready for the society, they should not be submitting to the students' wishes, certainly they should be seeking some feedback. They can moreover provide subjects as electives to give some degree of freedom to the students. 
+
 ***********************************************************************************************************************************************************************
 Educators should teach facts only after their students have studied the ideas, trends, and concepts that help explain those facts.
 
