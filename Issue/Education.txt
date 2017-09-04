@@ -60,7 +60,7 @@ Against:
 2. Will cost time and money to the student which he might not have. 
 
 Conclusion:
-Universities that necessitate students to take more than 10 subjects a semesters seems unfair. However, it should set a curriculum of few core must take subjects, and must recommend courses that might benefit the student, or present a number of courses as electives and let the student decide on which courses to take it based on his requirements and future endeavours. 
+Universities that necessitate students to take more than 10 subjects a semesters seems unfair. However, it should set a curriculum of few core must take subjects, and must recommend courses that might benefit the student, or present a number of courses as electives and let the student decide on which courses to take 	based on his requirements and future endeavours. 
 
 ***********************************************************************************************************************************************************************
 Educational institutions should actively encourage their students to choose fields of study that will prepare them for lucrative careers.
@@ -289,21 +289,68 @@ Conclusion:
 Educators' have responsibility to teach the students and make them ready for the society, they should not be submitting to the students' wishes, certainly they should be seeking some feedback. They can moreover provide subjects as electives to give some degree of freedom to the students. 
 
 ***********************************************************************************************************************************************************************
-Educators should teach facts only after their students have studied the ideas, trends, and concepts that help explain those facts.
+Educators should teach facts only after their students have studied the ideas, trends, and concepts that help explain those facts.$$$
 
 Write a response in which you discuss the extent to which you agree or disagree with the recommendation and explain your reasoning for the position you take. In developing and supporting your position, describe specific circumstances in which adopting the recommendation would or would not be advantageous and explain how these examples shape your position.
+
+For: 
+1. Studying the underlying ideas, concepts, trends will make students understand the facts better than merely 'accepting them passively'.
+2. They can think more 'critically', and draw their own 'conclusions'. 
+
+Against:
+1. The process requires a lot of time, not applicable when there's less time. 
+
+Conclusion:
+Understanding the ideas, trends, concepts will give a deep understanding about the underlying concept and will last longer in memory so it should be promoted. 
+
 ***********************************************************************************************************************************************************************
 In order to become well-rounded individuals, all college students should be required to take courses in which they read poetry, novels, mythology, and other types of imaginative literature.
 
 Write a response in which you discuss the extent to which you agree or disagree with the recommendation and explain your reasoning for the position you take. In developing and supporting your position, describe specific circumstances in which adopting the recommendation would or would not be advantageous and explain how these examples shape your position.
+
+For:
+1. Will help students who are major in English Literature.
+2. Reading various types of poetry, novels, and mythology will make the person more imaginative and let them experience things beyond reality.
+
+Against:
+1. Students should take courses in which they are intersted in, foisting courses which they do not like will likely to dissuade them from studying it.
+2. Studying imaginative literature for a physics student makes little sense. 
+3. Studying variety of subjects costs both time and money, which the student might not have. 
+4. Imp - there are other ways to become well rounded person - eg. by learning, 
+
+Conclusion:
+The suggestion will help an individual who is interested in reading, especially, English literature. Otherwise, it does not make sense to learn subjects and expect one to become well-rounded. 
+
 ***********************************************************************************************************************************************************************
-The main benefit of the study of history is to dispel the illusion that people living now are significantly different from people who lived in earlier times.
+The main benefit of the study of history is to dispel the illusion that people living now are significantly different from people who lived in earlier times.$$$
 
 Write a response in which you discuss the extent to which you agree or disagree with the statement and explain your reasoning for the position you take. In developing and supporting your position, you should consider ways in which the statement might or might not hold true and explain how these considerations shape your position.
+
+For:
+1. People are sort of same even now. Basic behaviour remains same, eg. piety, friendship, bravery, self-discipline, hard work. eg. people still go to temple, mention eg. of temples here. 
+
+Against:
+1. The statements ignores other benefits of studying history, eg. bravery (fights), not repeating the same mistakes (WW2), fighting against injustice and tyranny,  
+
+Conclusion:
+
 ***********************************************************************************************************************************************************************
 Learning is primarily a matter of personal discipline; students cannot be motivated by school or college alone.
 
 Write a response in which you discuss the extent to which you agree or disagree with the statement and explain your reasoning for the position you take. In developing and supporting your position, you should consider ways in which the statement might or might not hold true and explain how these considerations shape your position.
+
+For:
+1. People who are leading in their fields start learning from a very young age. They become what they are because of the discipline imbued by their parents at the very young age. 
+2. Learning requires interest, if the student is not interested in what he/she is learning, the college, school cannot do anything. 
+
+Against:
+1. In highly competitive colleges, eg, IITs it does not hold. Students are motivated by the competition alone. 
+2. Students can also be motivated by adverse conditions. eg. poverty might force student to learn and get a job.
+3. Schools can take advantage of tools like e-learning platform, use powerpoint presentations etc. to make learning more fun therby stimulating interest.
+
+Conclusion:
+Although it is true that learning happens when there is discipline, there are certain scenarios where the college can help ameliorate the situation
+
 ***********************************************************************************************************************************************************************
 Some people believe that the purpose of education is to free the mind and the spirit. Others believe that formal education tends to restrain our minds and spirits rather than set them free.
 
