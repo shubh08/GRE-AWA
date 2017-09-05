@@ -355,30 +355,109 @@ Although it is true that learning happens when there is discipline, there are ce
 Some people believe that the purpose of education is to free the mind and the spirit. Others believe that formal education tends to restrain our minds and spirits rather than set them free.
 
 Write a response in which you discuss which view more closely aligns with your own position and explain your reasoning for the position you take. In developing and supporting your position, you should address both of the views presented.
+
+For:
+1. Formal education is necessary to provide a solid understanding of basics, for instance english and maths which are necessary and part of our daily routine. 
+
+Others:
+1. Education these days is more exam centered. eg SAT, IIT etc. 
+2. formal education produces unhealthy competition. mishaps like suicides happen. 
+3. formal education only teaches theory, and less application thus limiting the education. 
+
+Conclusion:
+Education is required for freeing ones' mind and body, but formal education might not be as effective. 
 ***********************************************************************************************************************************************************************
 Colleges and universities should require all faculty to spend time working outside the academic world in professions relevant to the courses they teach.
 
 Write a response in which you discuss your views on the policy and explain your reasoning for the position you take. In developing and supporting your position, you should consider the possible consequences of implementing the policy and explain how these consequences shape your position.
+
+For: 
+1. Will give teachers a chance to apply the theory they know. They will gain more practical knowledge.
+2. They will be inculcated with the industry trends.
+
+Against:
+1. Forcing every teacher to get into industry might hinder research at University. Some fields are purely theoretical, not much can be changed after joinging
+industry, for some, the industry might not even exist. 
+
+Conclusion:
+Professional experience will certainly give teachers more practical knowledge about the fields they work in but sometimes it's just a hinderance. 
+
 ***********************************************************************************************************************************************************************
-All parents should be required to volunteer time to their children's schools.
+All parents should be required to volunteer time to their children's schools.$$$
 
 Write a response in which you discuss the extent to which you agree or disagree with the recommendation and explain your reasoning for the position you take. In developing and supporting your position, describe specific circumstances in which adopting the recommendation would or would not be advantageous and explain how these examples shape your position.
+
+For:
+1. Parents can spend more time with their kids, they'll be able to inculcate more values into their children.
+2. Parents will get a chance to know their child better. Most of the parents only count on the grades to portray their childs abilities. It may be possible that the 
+child is doing good academically but bad in real life. eg. he might be in depression, or maybe rude with the teachers etc. 
+
+Against:
+1. Parents might not have time, they might be busy eg. business owners
+2. If all parents gather for volunteering their children, then the school will have to make special arrangements for the same which will cost financial and human resources. 
+
+Conclusion:
+If the arragements are feasible, then it is always benefitial for the students by involving their parents through volunteering.
+
 ***********************************************************************************************************************************************************************
 Colleges and universities should require their students to spend at least one semester studying in a foreign country.
 
 Write a response in which you discuss the extent to which you agree or disagree with the recommendation and explain your reasoning for the position you take. In developing and supporting your position, describe specific circumstances in which adopting the recommendation would or would not be advantageous and explain how these examples shape your position.
+
+For:
+1. Will give them an experience to live independently, will give them more freedom and responsibility. 
+2. Will give them more practical, and a chance to earn more money. 
+
+Against:
+1. Costly, not always possible
+
+Conclusion:
+Universities should encourage students to spend a semester outside country, but should not necessitate so.
 ***********************************************************************************************************************************************************************
 Educators should take students' interests into account when planning the content of the courses they teach.
 
 Write a response in which you discuss the extent to which you agree or disagree with the recommendation and explain your reasoning for the position you take. In developing and supporting your position, describe specific circumstances in which adopting the recommendation would or would not be advantageous and explain how these examples shape your position.
+
+For:
+1. Students will be more motivated to study something they like.
+2. Students know themselves better than the university, they are more apt to choose their path 
+
+Against:
+1. Lazy students might take only easy courses while rejecting the hard ones like Math.
+2. Educators should also take into account other factors like the availability of job, future trends etc.  
+
+Conclusion:
+While they should be given some freedom in selecting subjects, for intance, by offering electives. Universities should design a basic curriculum with core subjects and add other ones as electives. 
 ***********************************************************************************************************************************************************************
 Educators should base their assessment of students' learning not on students' grasp of facts but on the ability to explain the ideas, trends, and concepts that those facts illustrate.
 
 Write a response in which you discuss the extent to which you agree or disagree with the recommendation and explain your reasoning for the position you take. In developing and supporting your position, describe specific circumstances in which adopting the recommendation would or would not be advantageous and explain how these examples shape your position.
+
+For:
+1. Will promote critical thinking. Students will be well aware of the application if assessed on the ideas and concepts that the facts illustrate. 
+2. Teachers will be forced to put more effort into teaching students deeply rather than merely preparing students for exams.
+
+Against:
+1. Although the idea seems beneficial, but will be not practical in some scenarios. It requires more time to teach the facts and underlying concepts as well, so the
+process will take more financial and human resources. 
+
+Conclusion:
+Educators should encourage students to study not only the facts but also the underlying concepts. At the same time it would be inappropriate to apply the policy when 
+it is not affordable.
+
 ***********************************************************************************************************************************************************************
-In most professions and academic fields, imagination is more important than knowledge.
+In most professions and academic fields, imagination is more important than knowledge.$$$
 
 Write a response in which you discuss the extent to which you agree or disagree with the statement and explain your reasoning for the position you take. In developing and supporting your position, you should consider ways in which the statement might or might not hold true and explain how these considerations shape your position.
+
+For:
+1. Applies to fields like painting, literature (poetry) etc.
+
+Against:
+1. Does not apply to fields requiring 
+
+Conclusion:
+
 ***********************************************************************************************************************************************************************
 Some people believe that competition for high grades motivates students to excel in the classroom. Others believe that such competition seriously limits the quality of real learning.
 
