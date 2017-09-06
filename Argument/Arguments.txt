@@ -15,7 +15,15 @@ The following appeared as part of a letter to the editor of a scientific journal
 
 Write a response in which you discuss one or more alternative explanations that could rival the proposed explanation and explain how your explanation(s) can plausibly account for the facts presented in the argument.
 
-
+Assumptions:
+1. 18 is a very small number of sample size to draw conclusions. Also, they should be of variegated characteristics only then some conclusions can be drawn.
+2. the firstborn, and older, monkeys might feel incumbent to protect their family in case an unknown monkey shows up, thus turning anxious and belligerent, which 
+justifies the high level of cortisol in them. Similarly, the younger sibilings being closer to the mother might not secret as much cortisol as do their older
+sibilings.
+3. No statistics about the human baby has been provided, maybe the study is based on only two humans. Also the high cortisol levels in human babies might be due to 
+fact that they are alone, and the same situation might be experience differently by their younger sibilings since the older sibiling would be around that time. Which 
+means that encountering the situation alone might be more stimulating than encountering the situation not alone.
+4. First time mother monkeys might be more stressed out since this would be their first time, in contrast with the monkeys who have had several offsprings before. 
 **********************************************************************************************************************************************************************
 
 The following appeared as a letter to the editor from a Central Plaza store owner.
@@ -23,6 +31,12 @@ The following appeared as a letter to the editor from a Central Plaza store owne
 "Over the past two years, the number of shoppers in Central Plaza has been steadily decreasing while the popularity of skateboarding has increased dramatically. Many Central Plaza store owners believe that the decrease in their business is due to the number of skateboard users in the plaza. There has also been a dramatic increase in the amount of litter and vandalism throughout the plaza. Thus, we recommend that the city prohibit skateboarding in Central Plaza. If skateboarding is prohibited here, we predict that business in Central Plaza will return to its previously high levels."
 
 Write a response in which you discuss what questions would need to be answered in order to decide whether the recommendation is likely to have the predicted result. Be sure to explain how the answers to these questions would help to evaluate the recommendation.
+
+Assumptions:
+1. Is the litter and vandalism found in plaza caused due to skaters? It might be due to activities or promotion campaigns in the plaza
+2. Is there a new shop in the vicinity with more exiting offers and discounts?
+3. Is there any relation between vandalism, littering and decrease in business? The prices might've went up accounting for the decrese in sales.
+4. It may be the case that lost customers will never return even if the recommendation is taken.
 **********************************************************************************************************************************************************************
 
 The following appeared in a letter from a homeowner to a friend.
@@ -43,11 +57,26 @@ The following appeared in a letter to the editor of the Balmer Island Gazette.
 "On Balmer Island, where mopeds serve as a popular form of transportation, the population increases to 100,000 during the summer months. To reduce the number of accidents involving mopeds and pedestrians, the town council of Balmer Island should limit the number of mopeds rented by the island's moped rental companies from 50 per day to 25 per day during the summer season. By limiting the number of rentals, the town council will attain the 50 percent annual reduction in moped accidents that was achieved last year on the neighboring island of Seaville, when Seaville's town council enforced similar limits on moped rentals."
 
 Write a response in which you discuss what questions would need to be answered in order to decide whether the recommendation is likely to have the predicted result. Be sure to explain how the answers to these questions would help to evaluate the recommendation.
+
+Assumptions:
+1. What is the number of tourists in Seaville? It might be the case that the number of tourists in Balmer is much more than in Seaville, so it could easily achieve
+50% reduction in accidents.
+2. Seaville might have conducted activities for teaching traffic rules to tourists, enforcing strict traffic rules, separate pathways for pedestrians and mopeds.
+3. What is the geographical area in which the islands are located? It might be a hill station with very narrow and tortuous roads, in this case taking the 
+recommendation will have little effect on the number of accidents.   
 **********************************************************************************************************************************************************************
 
 Arctic deer live on islands in Canada's arctic regions. They search for food by moving over ice from island to island during the course of the year. Their habitat is limited to areas warm enough to sustain the plants on which they feed and cold enough, at least some of the year, for the ice to cover the sea separating the islands, allowing the deer to travel over it. Unfortunately, according to reports from local hunters, the deer populations are declining. Since these reports coincide with recent global warming trends that have caused the sea ice to melt, we can conclude that the purported decline in deer populations is the result of the deer's being unable to follow their age-old migration patterns across the frozen sea.
 
 Write a response in which you discuss what specific evidence is needed to evaluate the argument and explain how the evidence would weaken or strengthen the argument.
+
+Assumptions:
+1. Maybe they are able to travel across islands but are unable to find food due to trees being cut down due to deforestation
+2. The conclusion is based on the observation done by hunters, perhaps the deers have learnt to avoid the hunters by foraging on a different island where there are 
+relatively less or no hunters. 
+3. The reduction could be the result of over hunting of deers. Or the number of predators that feed on deers, eg. eagles, tigers, lions might have increased. Thus 
+accounting for the reduced number of deers.
+
 **********************************************************************************************************************************************************************
 
 The following is a recommendation from the Board of Directors of Monarch Books.
@@ -55,6 +84,14 @@ The following is a recommendation from the Board of Directors of Monarch Books.
 "We recommend that Monarch Books open a café in its store. Monarch, having been in business at the same location for more than twenty years, has a large customer base because it is known for its wide selection of books on all subjects. Clearly, opening the café would attract more customers. Space could be made for the café by discontinuing the children's book section, which will probably become less popular given that the most recent national census indicated a significant decline in the percentage of the population under age ten. Opening a café will allow Monarch to attract more customers and better compete with Regal Books, which recently opened its own café."
 
 Write a response in which you discuss what questions would need to be answered in order to decide whether the recommendation is likely to have the predicted result. Be sure to explain how the answers to these questions would help to evaluate the recommendation.
+
+Assumptions:
+1. Taking the recommendation might just increase the crowd, there's little evidence supporting the crowd will actually buy books. Morover, it might overcrowd the 
+place thus upsetting the crowd who actually buy books.
+2. Regal books might be in a location where there are more students, thus attracting crowd purchasing more books. No geographical data is provided.
+3. Census is done once in ten years, it might be the case that the situation is different now, in this case the decision to close the kid section will result in
+even more loss.
+4. There already might be cafes in the are where Monarch books is located, in this case taking the recommendation will bring little profit to their business. 
 **********************************************************************************************************************************************************************
 
 The following appeared in a memo from the director of student housing at Buckingham College.
@@ -62,11 +99,24 @@ The following appeared in a memo from the director of student housing at Bucking
 "To serve the housing needs of our students, Buckingham College should build a number of new dormitories. Buckingham's enrollment is growing and, based on current trends, will double over the next 50 years, thus making existing dormitory space inadequate. Moreover, the average rent for an apartment in our town has risen in recent years. Consequently, students will find it increasingly difficult to afford off-campus housing. Finally, attractive new dormitories would make prospective students more likely to enroll at Buckingham."
 
 Write a response in which you discuss what specific evidence is needed to evaluate the argument and explain how the evidence would weaken or strengthen the argument.
+
+Assumptions:
+1. Even though the number of students at Buckingham is increasing, this doesn't mean the number of students who'll opt for the dormitory will increase. It is 
+possible that the increase in the number of students which the author cited are students living with their parents.
+2. It also fails to provide statistics for the increase in the average amount of rent, it might be possible that the rent went from average of $500 to $550, 
+then taking the recommendation will make little difference.
+3. It fails to explain why having better dormitories would attract more students, since students are more likely to get attracted to colleges based on 
+curriculum and location and not on how the dormitories are.
+4. The enrolment will double in 50 years, which is a lot of time. Perhaps the plan can be delayed until there is a significance increase. double in 50 years would be 
+how much percent increase in next 5 years? very little
 **********************************************************************************************************************************************************************
 
 Nature's Way, a chain of stores selling health food and other health-related products, is opening its next franchise in the town of Plainsville. The store should prove to be very successful: Nature's Way franchises tend to be most profitable in areas where residents lead healthy lives, and clearly Plainsville is such an area. Plainsville merchants report that sales of running shoes and exercise clothing are at all-time highs. The local health club has more members than ever, and the weight training and aerobics classes are always full. Finally, Plainsville's schoolchildren represent a new generation of potential customers: these schoolchildren are required to participate in a fitness-for-life program, which emphasizes the benefits of regular exercise at an early age.
 
 Write a response in which you examine the stated and/or unstated assumptions of the argument. Be sure to explain how the argument depends on these assumptions and what the implications are for the argument if the assumptions prove unwarranted.
+
+Assumptions:
+1. 
 **********************************************************************************************************************************************************************
 
 Twenty years ago, Dr. Field, a noted anthropologist, visited the island of Tertia. Using an observation-centered approach to studying Tertian culture, he concluded from his observations that children in Tertia were reared by an entire village rather than by their own biological parents. Recently another anthropologist, Dr. Karp, visited the group of islands that includes Tertia and used the interview-centered method to study child-rearing practices. In the interviews that Dr. Karp conducted with children living in this group of islands, the children spent much more time talking about their biological parents than about other adults in the village. Dr. Karp decided that Dr. Field's conclusion about Tertian village culture must be invalid. Some anthropologists recommend that to obtain accurate information on Tertian child-rearing practices, future research on the subject should be conducted via the interview-centered method.
