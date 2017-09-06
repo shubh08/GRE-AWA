@@ -1,6 +1,12 @@
 Woven baskets characterized by a particular distinctive pattern have previously been found only in the immediate vicinity of the prehistoric village of Palea and therefore were believed to have been made only by the Palean people. Recently, however, archaeologists discovered such a "Palean" basket in Lithos, an ancient village across the Brim River from Palea. The Brim River is very deep and broad, and so the ancient Paleans could have crossed it only by boat, and no Palean boats have been found. Thus it follows that the so-called Palean baskets were not uniquely Palean.
 
 Write a response in which you discuss what specific evidence is needed to evaluate the argument and explain how the evidence would weaken or strengthen the argument.
+
+Assumptions:
+1. The river never dried up, or never froze
+2. No Palean boats have been found, but its possible that Lithosian boats travelled to Palea for the sake of trading?
+3. Natural forces might have done it, flood for instace might have been responsible for carrying the palean basket to lithos
+
 **********************************************************************************************************************************************************************
 
 The following appeared as part of a letter to the editor of a scientific journal.
@@ -8,6 +14,8 @@ The following appeared as part of a letter to the editor of a scientific journal
 "A recent study of eighteen rhesus monkeys provides clues as to the effects of birth order on an individual's levels of stimulation. The study showed that in stimulating situations (such as an encounter with an unfamiliar monkey), firstborn infant monkeys produce up to twice as much of the hormone cortisol, which primes the body for increased activity levels, as do their younger siblings. Firstborn humans also produce relatively high levels of cortisol in stimulating situations (such as the return of a parent after an absence). The study also found that during pregnancy, first-time mother monkeys had higher levels of cortisol than did those who had had several offspring."
 
 Write a response in which you discuss one or more alternative explanations that could rival the proposed explanation and explain how your explanation(s) can plausibly account for the facts presented in the argument.
+
+
 **********************************************************************************************************************************************************************
 
 The following appeared as a letter to the editor from a Central Plaza store owner.
@@ -22,6 +30,12 @@ The following appeared in a letter from a homeowner to a friend.
 "Of the two leading real estate firms in our town—Adams Realty and Fitch Realty—Adams Realty is clearly superior. Adams has 40 real estate agents; in contrast, Fitch has 25, many of whom work only part-time. Moreover, Adams' revenue last year was twice as high as that of Fitch and included home sales that averaged $168,000, compared to Fitch's $144,000. Homes listed with Adams sell faster as well: ten years ago I listed my home with Fitch, and it took more than four months to sell; last year, when I sold another home, I listed it with Adams, and it took only one month. Thus, if you want to sell your home quickly and at a good price, you should use Adams Realty."
 
 Write a response in which you examine the stated and/or unstated assumptions of the argument. Be sure to explain how the argument depends on these assumptions and what the implications are for the argument if the assumptions prove unwarranted.
+
+Assumptions:
+1. 40 workers might be more inefficient than 25 workers. Part time doesn't mean less work
+2. Average is a bad measure, median is more appropriate.
+3. author states only last years revenue, maight be the case that the Fitch performed poorly only the last year. 
+4. author states only one such occurence when Adams sold faster than Fitch, might be the case that the house itself is at fault maybe located in a less populated area.
 **********************************************************************************************************************************************************************
 
 The following appeared in a letter to the editor of the Balmer Island Gazette.
